@@ -1,0 +1,11 @@
+/.venv/
+/venv/
+__pycache__/
+/.vscode
+.env
+.idea
+Pipfile
+Pipfile.lock
+/data
+/log
+pico.save
